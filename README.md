@@ -6,10 +6,10 @@ This is a Docker image to deploy apps on Python 3, using pyodbc and Driver 17 fo
 
 ## Elements
 
-Uses official image [Python 3.8.3-buster](https://hub.docker.com/_/python/)
+Uses official image [Python 3.11.8-bullseye](https://hub.docker.com/_/python/)
 
 1. Debian 11 (bullseye)
-2. Python 3.11.7
+2. Python 3.11.8
 3. Dependences tested for [Pyodbc 4.0.30](https://pypi.org/project/pyodbc/4.0.30/)
 4. Microsoft® ODBC SQL Server® 17 Driver installed
 
